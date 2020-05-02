@@ -1,0 +1,15 @@
+{
+"companyName": "DefaultCompany",
+"productName": "CityMap",
+"productVersion": "2.0",
+"dataUrl": "CityMap_WebGL.data.unityweb",
+"wasmCodeUrl": "CityMap_WebGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "CityMap_WebGL.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.12f1"
+}
